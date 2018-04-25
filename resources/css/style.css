@@ -16,7 +16,7 @@ body {
 
 .nav {
   color: white;
-  font-size: 18px
+  font-size: 18px;
 }
 
 #header h1 {
@@ -50,9 +50,11 @@ body {
 #footer {
   background-color: dimgray;
   text-align: left;
+  color: white;
 }
 
 .copyright {
+  display: inline;
   font-size: 11px;
   color: white;
 }
